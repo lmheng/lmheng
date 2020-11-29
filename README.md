@@ -9,7 +9,7 @@ https://xd.adobe.com/view/d441e213-7588-4486-9aac-1736dd069774-8112/?fullscreen
 
 <br>
 
-#### Find me on <a href="https://www.linkedin.com/in/li-meng-heng-26a93897/">LinkedIn</a>!
+#### Find me on <a href="https://www.linkedin.com/in/li-meng-heng-26a93897/">LinkedIn</a>! 🌍
 <!--
 **lmheng/lmheng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
