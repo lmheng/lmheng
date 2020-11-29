@@ -1,4 +1,12 @@
-### Hi there 👋
+## Hi, I'm Li Meng! 👋
+
+
+On top of the coding projects and repositories you see here, I also enjoy making prototypes for our team coding projects! There isn't a lot for now because we are still in the midst of school term but will be uploading more in time to come! 
+
+### Samples of them here:
+
+https://xd.adobe.com/view/d441e213-7588-4486-9aac-1736dd069774-8112/?fullscreen
+
 
 <!--
 **lmheng/lmheng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
