@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Li Meng</h1>
 <h3 align="center">A passionate fullstack developer from Singapore</h3>
 
-- 🌱 I’m currently learning **Unity, machine learning**
+- 🌱 I’m currently learning **Machine learning**
 
 - 💬 Ask me about **React, ASP.Net**
 
